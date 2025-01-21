@@ -1,0 +1,64 @@
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\M2Mqtt.Net.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Memory.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Numerics.Vectors.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Buffers.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\M2Mqtt.Net.pdb
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.AssemblyReference.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.SuggestedBindingRedirects.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.GenerateResource.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.CoreCompileInputs.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.CopyComplete
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\M2Mqtt.Net.dll
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Memory.dll
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Buffers.dll
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.AssemblyReference.cache
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.GenerateResource.cache
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.CopyComplete
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Thinkpad T460\Downloads\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\M2Mqtt.Net.dll
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Memory.dll
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Numerics.Vectors.dll
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Buffers.dll
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\M2Mqtt.Net.pdb
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.AssemblyReference.cache
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.GenerateResource.cache
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.CoreCompileInputs.cache
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.csproj.CopyComplete
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreSet.Properties.Resources.resources
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Score Panel.exe.config
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Score Panel.exe
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Score Panel.pdb
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Score Panel.exe
+C:\Software\Screen_Score Panel\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Score Panel.pdb

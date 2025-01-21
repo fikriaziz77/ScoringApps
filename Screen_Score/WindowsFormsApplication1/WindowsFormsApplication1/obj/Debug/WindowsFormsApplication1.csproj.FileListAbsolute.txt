@@ -1,0 +1,62 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\lenovo\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\LENOVO\Documents\Visual Studio 2012\Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2012\Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LENOVO\Documents\Visual Studio 2012\Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2012\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2012\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LENOVO\Documents\Visual Studio 2012\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2012\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LENOVO\Documents\Visual Studio 2012\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2012\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2012\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2012\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2012\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Memory.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Numerics.Vectors.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Buffers.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Memory.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Numerics.Vectors.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Buffers.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.CopyComplete
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml

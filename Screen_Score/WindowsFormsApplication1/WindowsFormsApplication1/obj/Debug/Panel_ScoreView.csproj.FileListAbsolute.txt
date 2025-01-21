@@ -1,0 +1,36 @@
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Memory.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Numerics.Vectors.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Buffers.dll
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.xml
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreView.csproj.AssemblyReference.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreView.csproj.SuggestedBindingRedirects.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreView.csproj.GenerateResource.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreView.csproj.CoreCompileInputs.cache
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreView.csproj.CopyComplete
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\L_POLMAN BANDUNG ( 2019 - #### )\PROJECT PBSI SCORE\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Memory.dll
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Numerics.Vectors.dll
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\System.Buffers.dll
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreView.csproj.AssemblyReference.cache
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreView.csproj.GenerateResource.cache
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreView.csproj.CoreCompileInputs.cache
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Panel_ScoreView.csproj.CopyComplete
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Software\Screen_Score\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
