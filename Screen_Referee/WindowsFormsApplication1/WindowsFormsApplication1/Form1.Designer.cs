@@ -205,7 +205,7 @@
             // date_timer
             // 
             this.date_timer.Enabled = true;
-            this.date_timer.Interval = 10;
+            this.date_timer.Interval = 1;
             this.date_timer.Tick += new System.EventHandler(this.date_timer_Tick);
             // 
             // label4

@@ -2,20 +2,30 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
-using System.Diagnostics;
 using System.Drawing;
-using System.IO;
 using System.Linq;
-using System.Reflection.Emit;
-using System.Security.Cryptography;
 using System.Text;
 using System.Windows.Forms;
 using System.IO;
+
+
+using FireSharp.Config;
+using FireSharp.Interfaces;
+using FireSharp.Response;
+
 
 namespace WindowsFormsApplication1
 {
     public partial class Form1 : Form
     {
+       
+        IFirebaseConfig db_config = new FirebaseConfig
+        {
+            AuthSecret = "TNsmUVZLN9gZNVJNno1zkgCYRlyNhgDcU7imHt2n",
+            BasePath = "https://score-bandabaru-default-rtdb.asia-southeast1.firebasedatabase.app/"
+        };
+
+        IFirebaseClient db_client;
 
         MySql mysql = new MySql();
  
@@ -25,9 +35,145 @@ namespace WindowsFormsApplication1
             InitializeComponent();
         }
 
+        public async void send_db_web(int court)
+        {
+            mysql.GetDataCourt();
+
+            var dataweb = new DataW { };
+            switch (court)
+            {
+                case 1:
+                    dataweb.p1 = name11.Text;
+                    dataweb.p2 = name12.Text;
+                    dataweb.sc11 = sc111.Text;
+                    dataweb.sc12 = sc112.Text;
+                    dataweb.sc21 = sc121.Text;
+                    dataweb.sc22 = sc122.Text;
+                    dataweb.sc31 = sc131.Text;
+                    dataweb.sc32 = sc132.Text;
+                    dataweb.ball = mysql.ball[court];
+                    dataweb.st1 = mysql.tim1set[court];
+                    dataweb.st2 = mysql.tim2set[court];
+                    dataweb.stat = mysql.status[court];
+                    break;
+
+                case 2:
+                    dataweb.p1 = name21.Text;
+                    dataweb.p2 = name22.Text;
+                    dataweb.sc11 = sc211.Text;
+                    dataweb.sc12 = sc212.Text;
+                    dataweb.sc21 = sc221.Text;
+                    dataweb.sc22 = sc222.Text;
+                    dataweb.sc31 = sc231.Text;
+                    dataweb.sc32 = sc232.Text;
+                    dataweb.ball = mysql.ball[court];
+                    dataweb.st1 = mysql.tim1set[court];
+                    dataweb.st2 = mysql.tim2set[court];
+                    dataweb.stat = mysql.status[court];
+                    break;
+
+                case 3:
+                    dataweb.p1 = name31.Text;
+                    dataweb.p2 = name32.Text;
+                    dataweb.sc11 = sc311.Text;
+                    dataweb.sc12 = sc312.Text;
+                    dataweb.sc21 = sc321.Text;
+                    dataweb.sc22 = sc322.Text;
+                    dataweb.sc31 = sc331.Text;
+                    dataweb.sc32 = sc332.Text;
+                    dataweb.ball = mysql.ball[court];
+                    dataweb.st1 = mysql.tim1set[court];
+                    dataweb.st2 = mysql.tim2set[court];
+                    dataweb.stat = mysql.status[court];
+                    break;
+
+                case 4:
+                    dataweb.p1 = name41.Text;
+                    dataweb.p2 = name42.Text;
+                    dataweb.sc11 = sc411.Text;
+                    dataweb.sc12 = sc412.Text;
+                    dataweb.sc21 = sc421.Text;
+                    dataweb.sc22 = sc422.Text;
+                    dataweb.sc31 = sc431.Text;
+                    dataweb.sc32 = sc432.Text;
+                    dataweb.ball = mysql.ball[court];
+                    dataweb.st1 = mysql.tim1set[court];
+                    dataweb.st2 = mysql.tim2set[court];
+                    dataweb.stat = mysql.status[court];
+                    break;
+
+                case 5:
+                    dataweb.p1 = name51.Text;
+                    dataweb.p2 = name52.Text;
+                    dataweb.sc11 = sc511.Text;
+                    dataweb.sc12 = sc512.Text;
+                    dataweb.sc21 = sc521.Text;
+                    dataweb.sc22 = sc522.Text;
+                    dataweb.sc31 = sc531.Text;
+                    dataweb.sc32 = sc532.Text;
+                    dataweb.ball = mysql.ball[court];
+                    dataweb.st1 = mysql.tim1set[court];
+                    dataweb.st2 = mysql.tim2set[court];
+                    dataweb.stat = mysql.status[court];
+                    break;
+
+                case 6:
+                    dataweb.p1 = name61.Text;
+                    dataweb.p2 = name62.Text;
+                    dataweb.sc11 = sc611.Text;
+                    dataweb.sc12 = sc612.Text;
+                    dataweb.sc21 = sc621.Text;
+                    dataweb.sc22 = sc622.Text;
+                    dataweb.sc31 = sc631.Text;
+                    dataweb.sc32 = sc632.Text;
+                    dataweb.ball = mysql.ball[court];
+                    dataweb.st1 = mysql.tim1set[court];
+                    dataweb.st2 = mysql.tim2set[court];
+                    dataweb.stat = mysql.status[court];
+                    break;
+
+                case 7:
+                    dataweb.p1 = name71.Text;
+                    dataweb.p2 = name72.Text;
+                    dataweb.sc11 = sc711.Text;
+                    dataweb.sc12 = sc712.Text;
+                    dataweb.sc21 = sc721.Text;
+                    dataweb.sc22 = sc722.Text;
+                    dataweb.sc31 = sc731.Text;
+                    dataweb.sc32 = sc732.Text;
+                    dataweb.ball = mysql.ball[court];
+                    dataweb.st1 = mysql.tim1set[court];
+                    dataweb.st2 = mysql.tim2set[court];
+                    dataweb.stat = mysql.status[court];
+                    break;
+
+            }
+
+            if (dataweb != null)
+            {
+                try
+                {
+                    SetResponse response = await db_client.SetAsync($"Court{court}/", dataweb);
+                    DataW result = response.ResultAs<DataW>();
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.ToString());
+                }
+                
+            }
+        }
+
+   
+
         private void Form1_Load(object sender, EventArgs e)
         {
             mysql.Initialize();
+
+            //Initialization
+            db_client = new FireSharp.FirebaseClient(db_config);
+
+
             timer1.Start();
         }
      
@@ -151,6 +297,14 @@ namespace WindowsFormsApplication1
                 sc131.ForeColor = Color.White;
                 sc132.ForeColor = Color.White;
 
+                sc111.Text = "99";
+                sc112.Text = "99";
+                sc121.Text = "99";
+                sc122.Text = "99";
+                sc131.Text = "99";
+                sc132.Text = "99";
+
+
             }
 
         }
@@ -251,6 +405,13 @@ namespace WindowsFormsApplication1
                 sc222.ForeColor = Color.White;
                 sc231.ForeColor = Color.White;
                 sc232.ForeColor = Color.White;
+
+                sc211.Text = "99";
+                sc212.Text = "99";
+                sc221.Text = "99";
+                sc222.Text = "99";
+                sc231.Text = "99";
+                sc232.Text = "99";
 
             }
 
@@ -353,6 +514,13 @@ namespace WindowsFormsApplication1
                 sc331.ForeColor = Color.White;
                 sc332.ForeColor = Color.White;
 
+                sc311.Text = "99";
+                sc312.Text = "99";
+                sc321.Text = "99";
+                sc322.Text = "99";
+                sc331.Text = "99";
+                sc332.Text = "99";
+
             }
 
         }
@@ -454,6 +622,12 @@ namespace WindowsFormsApplication1
                 sc431.ForeColor = Color.White;
                 sc432.ForeColor = Color.White;
 
+                sc411.Text = "99";
+                sc412.Text = "99";
+                sc421.Text = "99";
+                sc422.Text = "99";
+                sc431.Text = "99";
+                sc432.Text = "99";
             }
 
         }
@@ -556,6 +730,14 @@ namespace WindowsFormsApplication1
                 sc531.ForeColor = Color.White;
                 sc532.ForeColor = Color.White;
 
+                sc511.Text = "99";
+                sc512.Text = "99";
+                sc521.Text = "99";
+                sc522.Text = "99";
+                sc531.Text = "99";
+                sc532.Text = "99";
+
+
             }
 
         }
@@ -655,6 +837,13 @@ namespace WindowsFormsApplication1
                 sc622.ForeColor = Color.White;
                 sc631.ForeColor = Color.White;
                 sc632.ForeColor = Color.White;
+
+                sc611.Text = "99";
+                sc612.Text = "99";
+                sc621.Text = "99";
+                sc622.Text = "99";
+                sc631.Text = "99";
+                sc632.Text = "99";
 
             }
 
@@ -756,6 +945,13 @@ namespace WindowsFormsApplication1
                 sc731.ForeColor = Color.White;
                 sc732.ForeColor = Color.White;
 
+                sc711.Text = "99";
+                sc712.Text = "99";
+                sc721.Text = "99";
+                sc722.Text = "99";
+                sc731.Text = "99";
+                sc732.Text = "99";
+
             }
 
         }
@@ -788,6 +984,16 @@ namespace WindowsFormsApplication1
         {
 
         }
+
+        private void clk_senddb_Tick(object sender, EventArgs e)
+        {
+            for (int i = 1; i <= 7; i++)
+            {
+                send_db_web(i);
+            }
+        }
+
+       
     }
 
         

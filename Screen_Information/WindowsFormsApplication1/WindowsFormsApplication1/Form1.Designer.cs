@@ -150,6 +150,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.timer2 = new System.Windows.Forms.Timer(this.components);
+            this.clk_senddb = new System.Windows.Forms.Timer(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.sponsor_pic)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -1604,6 +1605,12 @@
             this.timer2.Interval = 300;
             this.timer2.Tick += new System.EventHandler(this.timer2_Tick);
             // 
+            // clk_senddb
+            // 
+            this.clk_senddb.Enabled = true;
+            this.clk_senddb.Interval = 1000;
+            this.clk_senddb.Tick += new System.EventHandler(this.clk_senddb_Tick);
+            // 
             // Form1
             // 
             this.AccessibleRole = System.Windows.Forms.AccessibleRole.None;
@@ -1855,6 +1862,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Timer timer2;
+        private System.Windows.Forms.Timer clk_senddb;
     }
 }
 

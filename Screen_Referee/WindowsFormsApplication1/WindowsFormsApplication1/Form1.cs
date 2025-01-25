@@ -73,10 +73,10 @@ namespace WindowsFormsApplication1
         }
 
 
+
         private void date_timer_Tick(object sender, EventArgs e)
         {
-
-
+            
             //string datetime = DateTime.Now.ToString("dd-MMM-yyyyhh:mm:ss tt");
             curr_date.Text = DateTime.Now.ToString("ddd dd/M/yyyy");
             curr_time.Text = DateTime.Now.ToString("hh:mm:ss tt");
@@ -145,9 +145,14 @@ namespace WindowsFormsApplication1
 
             if(db_client!=null)
             {
-                MessageBox.Show("oyeah!!");
+                //MessageBox.Show("Success !","Connection Test for Online", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            else
+            {
+                MessageBox.Show("Unable to establish a connection to Firebase. Please Connect to Internet !", "Connection Test for Online",MessageBoxButtons.OK,MessageBoxIcon.Error);
             }
 
+            
             string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
             // Define the relative path to your executable or resource
             string relativePath = "Debug\\Panel_Information.exe";
@@ -1350,6 +1355,10 @@ namespace WindowsFormsApplication1
             }
         }
 
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+ 
+        }
 
         private void button1_Click(object sender, EventArgs e)
         {
